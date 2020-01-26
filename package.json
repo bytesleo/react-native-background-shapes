@@ -1,6 +1,6 @@
 {
   "name": "react-native-background-shapes",
-  "version": "0.1",
+  "version": "1.0.0",
   "description": "Beautiful backgrounds shapes to React Native based in flex",
   "main": "dist/lib/index.js",
   "scripts": {
