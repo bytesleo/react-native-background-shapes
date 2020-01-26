@@ -7,7 +7,7 @@
 
 ### Examples
 
-![Imgur](./pic/Dzkd0zB.png =250x)
+![](./pic/Dzkd0zB.png =250x)
 
 <img src="https://imgur.com/Dzkd0zB.jpg" width="400" >
 <img src="https://imgur.com/i7YfOxK.jpg" width="400" >
