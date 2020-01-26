@@ -6,15 +6,12 @@
 
 ### Examples
 
-<img align="right" src="https://imgur.com/Dzkd0zB.jpg" width="400" >
-<img align="right" src="https://imgur.com/i7YfOxK.jpg" width="400" >
-<img align="right" src="https://imgur.com/m2f78nl.jpg" width="400" >
-<img align="right" src="https://imgur.com/dNwUJV2.jpg" width="400" >
-
-<!-- ![Imgur](https://imgur.com/Dzkd0zB.jpg)
-![Imgur](https://imgur.com/i7YfOxK.jpg)
-![Imgur](https://imgur.com/m2f78nl.jpg)
-![Imgur](https://imgur.com/dNwUJV2.jpg) -->
+<p align="center">
+<img  src="https://imgur.com/Dzkd0zB.jpg" width="400" >
+<img  src="https://imgur.com/i7YfOxK.jpg" width="400" >
+<img  src="https://imgur.com/m2f78nl.jpg" width="400" >
+<img src="https://imgur.com/dNwUJV2.jpg" width="400" >
+</p>
 
 ### Installation
 
