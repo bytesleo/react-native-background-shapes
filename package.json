@@ -1,0 +1,48 @@
+{
+  "name": "react-native-background-shapes",
+  "version": "0.1",
+  "description": "Beautiful backgrounds shapes to React Native based in flex",
+  "main": "dist/lib/index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/parcel src/docs/index.html",
+    "build": "./node_modules/.bin/webpack --mode=production",
+    "build:docs": "./node_modules/.bin/parcel build src/docs/index.js -d ./dist/docs && cp src/docs/index.html dist/docs/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevoj/react-webpack-component.git"
+  },
+  "keywords": [
+    "React",
+    "Component",
+    "webpack",
+    "webpack 4",
+    "react-webpack"
+  ],
+  "author": "Leonardo Rico Guevara - https://github.com/kevoj",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-native": "^0.61.5"
+  },
+  "peerDependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-native": "^0.61.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "@babel/preset-react": "^7.8.3",
+    "babel-loader": "^8.0.0-beta",
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "parcel-bundler": "^1.12.4",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
