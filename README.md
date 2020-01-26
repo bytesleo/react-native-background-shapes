@@ -7,12 +7,15 @@
 
 ### Examples
 
-<img src="https://imgur.com/Dzkd0zB.jpg" width="300" >
+<img src="https://imgur.com/Dzkd0zB.jpg" width="400" >
+<img src="https://imgur.com/i7YfOxK.jpg" width="400" >
+<img src="https://imgur.com/m2f78nl.jpg" width="400" >
+<img src="https://imgur.com/dNwUJV2.jpg" width="400" >
 
-![Imgur](https://imgur.com/Dzkd0zB.jpg){:height="50%" width="50%"}
-![Imgur](https://imgur.com/i7YfOxK.jpg){:height="50%" width="50%"}
-![Imgur](https://imgur.com/m2f78nl.jpg){:height="50%" width="50%"}
-![Imgur](https://imgur.com/dNwUJV2.jpg){:height="50%" width="50%"}
+<!-- ![Imgur](https://imgur.com/Dzkd0zB.jpg)
+![Imgur](https://imgur.com/i7YfOxK.jpg)
+![Imgur](https://imgur.com/m2f78nl.jpg)
+![Imgur](https://imgur.com/dNwUJV2.jpg) -->
 
 ### Installation
 **Yarn**
