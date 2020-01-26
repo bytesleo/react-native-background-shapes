@@ -7,7 +7,7 @@
 
 ### Examples
 
-![](https://imgur.com/Dzkd0zB.jpg =250x)
+![Imgur](https://imgur.com/Dzkd0zB.jpg){ width=50% }
 
 <img src="https://imgur.com/Dzkd0zB.jpg" width="400" >
 <img src="https://imgur.com/i7YfOxK.jpg" width="400" >
