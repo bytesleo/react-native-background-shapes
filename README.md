@@ -7,7 +7,7 @@
 
 ### Examples
 
-<img src="https://imgur.com/Dzkd0zB.jpg" width="100" height="100">
+<img src="https://imgur.com/Dzkd0zB.jpg" width="300" >
 
 ![Imgur](https://imgur.com/Dzkd0zB.jpg){:height="50%" width="50%"}
 ![Imgur](https://imgur.com/i7YfOxK.jpg){:height="50%" width="50%"}
