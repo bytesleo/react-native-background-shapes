@@ -6,10 +6,11 @@
 > Beautiful backgrounds shapes to React Native based in flex
 
 ### Examples
-![Imgur](https://imgur.com/Dzkd0zB.jpg)
-![Imgur](https://imgur.com/i7YfOxK.jpg)
-![Imgur](https://imgur.com/m2f78nl.jpg)
-![Imgur](https://imgur.com/dNwUJV2.jpg)
+
+![Imgur](https://imgur.com/Dzkd0zB.jpg){:height="50%" width="50%"}
+![Imgur](https://imgur.com/i7YfOxK.jpg){:height="50%" width="50%"}
+![Imgur](https://imgur.com/m2f78nl.jpg){:height="50%" width="50%"}
+![Imgur](https://imgur.com/dNwUJV2.jpg){:height="50%" width="50%"}
 
 ### Installation
 **Yarn**
@@ -52,14 +53,14 @@ return (
     ]}
  />
 ```
-**primaryColor**: String, HEX color.
-**secondaryColor**: String, HEX color.
-**height**: Number, 1 = full screen, default (3.5)
-**borderRadius**: Number, default 30
-**figures**: Array
-* **name**: String = "circle","donut, "triangle", "diamondNarrow", "cutDiamond"
-* **position**: String = "flex-start", "center, "flex-end", "baseline", "stretch"
-* **axis**: String = "top", "right, "bottom", "left"
+* **primaryColor**: String, HEX color.
+* **secondaryColor**: String, HEX color.
+* **height**: Number, 1 = full screen, default (3.5)
+* **borderRadius**: Number, default 30
+* **figures**: Array
+* * **name**: String = "circle","donut, "triangle", "diamondNarrow", "cutDiamond"
+* * **position**: String = "flex-start", "center, "flex-end", "baseline", "stretch"
+* * **axis**: String = "top", "right, "bottom", "left"
 
 ## License
 
