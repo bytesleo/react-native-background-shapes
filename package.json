@@ -1,6 +1,6 @@
 {
   "name": "react-native-background-shapes",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Beautiful backgrounds shapes to React Native based in flex",
   "main": "dist/lib/index.js",
   "scripts": {
@@ -21,29 +21,29 @@
   ],
   "author": "Leonardo Rico Guevara - https://github.com/kevoj",
   "license": "MIT",
-  "dependencies": {
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-native": "^0.61.5"
-  },
   "peerDependencies": {
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-native": "^0.61.5"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-native": "^0.62.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.8.3",
-    "@babel/preset-env": "^7.8.3",
-    "@babel/preset-react": "^7.8.3",
-    "babel-loader": "^8.0.0-beta",
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "@babel/preset-react": "^7.10.1",
+    "babel-loader": "^8.1.0",
     "babel-plugin-transform-async-to-generator": "^6.24.1",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "metro-react-native-babel-preset": "^0.59.0",
     "parcel-bundler": "^1.12.4",
-    "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
     "webpack-node-externals": "^1.7.2"
+  },
+  "dependencies": {
+    "react": "16.11.0",
+    "react-dom": "^16.13.1",
+    "react-native": "^0.62.2"
   }
 }
