@@ -1,6 +1,6 @@
 {
   "name": "react-native-background-shapes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Beautiful backgrounds shapes to React Native based in flex",
   "main": "dist/lib/index.js",
   "scripts": {
@@ -40,6 +40,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
+    "metro-react-native-babel-preset": "^0.59.0",
     "parcel-bundler": "^1.12.4",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10",
