@@ -1,7 +1,10 @@
 {
   "name": "react-native-background-shapes",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Beautiful backgrounds shapes to React Native based in flex",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "main": "dist/lib/index.js",
   "scripts": {
     "start": "./node_modules/.bin/parcel src/docs/index.html",
@@ -40,5 +43,10 @@
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11",
     "webpack-node-externals": "^1.7.2"
+  },
+  "dependencies": {
+    "react": "16.11.0",
+    "react-dom": "^16.13.1",
+    "react-native": "^0.62.2"
   }
 }
