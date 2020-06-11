@@ -3,7 +3,7 @@
   "version": "1.0.7",
   "description": "Beautiful backgrounds shapes to React Native based in flex",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/kevoj/react-native-background-shapes"
   },
   "main": "dist/lib/index.js",
   "scripts": {
