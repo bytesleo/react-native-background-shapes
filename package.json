@@ -1,10 +1,7 @@
 {
   "name": "react-native-background-shapes",
   "version": "1.0.7",
-  "description": "Beautiful backgrounds shapes to React Native based in flex",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/kevoj/react-native-background-shapes"
-  },
+  "description": "Beautiful backgrounds shapes to React Native based in flex (Android + IOS)",
   "main": "dist/lib/index.js",
   "scripts": {
     "start": "./node_modules/.bin/parcel src/docs/index.html",
@@ -13,16 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevoj/react-webpack-component.git"
+    "url": "git+https://github.com/kevoj/react-native-background-shapes.git"
   },
   "keywords": [
-    "React",
-    "Component",
-    "webpack",
-    "webpack 4",
-    "react-webpack"
+    "react",
+    "react-native",
+    "shapes",
+    "react-shapes",
+    "background",
+    "react-background",
+    "flex",
+    "background-flex",
+    "shapes-flex"
   ],
-  "author": "Leonardo Rico Guevara - https://github.com/kevoj",
+  "author": "https://github.com/kevoj",
   "license": "MIT",
   "peerDependencies": {
     "react": "^16.13.1",

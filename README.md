@@ -2,7 +2,7 @@
 
 [![NPM version](https://badge.fury.io/js/react-native-backgroud-shapes.svg)](https://npmjs.org/package/react-native-backgroud-shapes) [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://raw.githubusercontent.com/kevoj/react-native-backgroud-shapes/master/LICENSE)
 
-> Beautiful backgrounds shapes to React Native based in flex
+> Beautiful backgrounds shapes to React Native based in flex (Android + IOS)
 
 ### Examples
 
@@ -27,7 +27,7 @@ yarn add react-native-background-shapes
 npm i react-native-background-shapes
 ```
 
-### Usage
+### Basic usage
 
 ```javascript
 import react from "react";
@@ -46,8 +46,6 @@ return (
 ### Options
 
 ```javascript
-// Basic
- <Shapes />
 // Advance
  <Shapes
     primaryColor="#416DF8"
